@@ -1,0 +1,23 @@
+{
+  "title": "Sub2API",
+  "description": "Connect and manage a local or remote Sub2API from DSH Desktop",
+  "trigger": "Sub2API",
+  "panelTitle": "Sub2API Console",
+  "close": "Close Sub2API",
+  "url": "Service URL",
+  "urlHint": "Enter the Sub2API web URL, for example http://127.0.0.1:8080.",
+  "save": "Save and check",
+  "starting": "Starting…",
+  "checking": "Checking…",
+  "ready": "Connected",
+  "offline": "Unavailable",
+  "notConfigured": "Not configured",
+  "binary": "Local binary path (optional)",
+  "binaryHint": "When set, DSH can start Sub2API. Configure PostgreSQL and Redis as documented upstream.",
+  "start": "Start service",
+  "stop": "Stop service",
+  "openExternal": "Open in browser",
+  "reload": "Reload",
+  "embedBlocked": "If the embedded page is blocked by the server security policy, use “Open in browser”.",
+  "healthError": "Health check failed: {message}"
+}
